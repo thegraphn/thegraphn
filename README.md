@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thegraphn
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning K8s
+- 👀 Check my cocktails channel https://www.youtube.com/channel/UCJa5BOnXW6umvbjPIKZuNOA
+- 🌱 
 - 💞️ I’m looking to collaborate with interesting personalities
 - 📫 How to reach me aurelien.levecq@gmail.com
 
